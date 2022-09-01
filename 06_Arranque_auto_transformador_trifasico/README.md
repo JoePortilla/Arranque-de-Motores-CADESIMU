@@ -1,0 +1,1 @@
+# Arranque de Motor trifásico con auto transformador.

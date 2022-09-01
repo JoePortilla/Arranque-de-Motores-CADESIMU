@@ -1,0 +1,1 @@
+# Arranque directo de Motor monofásico.

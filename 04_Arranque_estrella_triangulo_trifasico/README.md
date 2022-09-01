@@ -1,0 +1,1 @@
+# Arranque estrella-triangulo de Motor trifásico.

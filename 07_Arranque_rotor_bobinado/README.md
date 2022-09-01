@@ -1,0 +1,1 @@
+# Arranque de rotor bobinado.
